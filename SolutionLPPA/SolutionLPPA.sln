@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPPA.Web.Site", "LPPA.Web.Site\LPPA.Web.Site.csproj", "{DBAC24F2-5E92-46F8-8307-90690AD0757F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAC24F2-5E92-46F8-8307-90690AD0757F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAC24F2-5E92-46F8-8307-90690AD0757F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAC24F2-5E92-46F8-8307-90690AD0757F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAC24F2-5E92-46F8-8307-90690AD0757F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDCF6E0-661F-400C-A5EE-A5F0BE05D26C}
+	EndGlobalSection
+EndGlobal
